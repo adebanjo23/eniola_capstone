@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+Pillow
+kaggle
+optuna
+torchsummary
