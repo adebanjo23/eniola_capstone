@@ -4,13 +4,18 @@ This project aims to build an image classification model using PyTorch that can 
 
 ## Objectives
 
-1. Data Preparation
-2. Exploratory Data Analysis (EDA)
-3. Model Development using Custom CNN
-4. Model Training and Validation
-5. Model Evaluation
-6. Visualization of Results
-7. Model Saving and Loading
+1. Data Preparation 
+2. Data Augmentation and Loading
+3. Exploratory Data Analysis
+4. Model Development using Custom CNN
+5. Model Summary and architecture
+6. Initial Model Training and Validation
+7. Initial Model Evaluation
+8. Hyperparameter Tuning
+9. Model Retraining with Hyperparameters
+10. Final Model Evaluation
+11. Visualization of model results
+12. Model Saving and Loading
 
 ## Requirements
 
@@ -97,10 +102,19 @@ You can download the dataset from the following link: [Intel Image Classificatio
     - Calculate metrics such as accuracy, precision, recall, and F1 score.
     - Plot confusion matrix and ROC curves.
 
-8. **Visualization of Results:**
+8. **Hyperparameter Tuning:**
+    - Perform hyperparameter tuning to optimize the model's performance.
+
+9. **Model Retraining with best Hyperparameters:**
+    - Train the model on the selected hyperparameters.
+
+10. **Final Model Evaluation:**
+     - Evaluate the model on the test set.
+
+11. **Visualization of Results:**
     - Visualize the confusion matrix and class activation maps (CAM).
 
-9. **Model Saving and Loading:**
+12. **Model Saving and Loading:**
     - Implement functionality to save and load the entire model architecture and weights.
 
 ## Logging
