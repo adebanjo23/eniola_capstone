@@ -6,7 +6,7 @@ This project aims to build an image classification model using PyTorch that can 
 
 1. Data Preparation 
 2. Data Augmentation and Loading
-3. Exploratory Data Analysis
+3. Sample Image Visualization
 4. Model Development using Custom CNN
 5. Model Summary and architecture
 6. Initial Model Training and Validation
@@ -87,7 +87,7 @@ You can download the dataset from the following link: [Intel Image Classificatio
     - Apply data augmentation techniques.
     - Split the dataset into training, validation, and testing sets.
 
-4. **Exploratory Data Analysis (EDA):**
+4. **Sample Image Visualization:**
     - Visualize sample images and analyze class distribution.
 
 5. **Model Development and Summary:**
